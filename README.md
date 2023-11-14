@@ -1,4 +1,4 @@
-# Automacao-em-Python
+# Automação-em-Python
 
 Esse código utiliza a biblioteca `pyautogui` do Python para automatizar um processo de cadastro de produtos em algum sistema ou programa. Vou explicar passo a passo o que cada parte do código está fazendo:
 
